@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
