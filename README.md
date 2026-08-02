@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
@@ -15,6 +16,7 @@
 | [0011-container-with-most-water](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
@@ -76,5 +78,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
