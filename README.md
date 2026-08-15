@@ -144,4 +144,16 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1901-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
