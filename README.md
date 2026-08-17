@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
