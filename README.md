@@ -70,6 +70,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
