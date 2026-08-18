@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1903-largest-odd-number-in-string) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0229-majority-element-ii) |
@@ -152,6 +154,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
