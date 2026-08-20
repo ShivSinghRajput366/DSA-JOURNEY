@@ -41,6 +41,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
@@ -73,6 +74,7 @@
 | [0169-majority-element](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -130,6 +132,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
