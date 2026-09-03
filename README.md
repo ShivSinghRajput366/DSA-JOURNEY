@@ -178,4 +178,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
