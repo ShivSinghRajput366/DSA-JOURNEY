@@ -65,6 +65,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -182,4 +183,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
