@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,4 +213,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
