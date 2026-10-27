@@ -48,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1539-kth-missing-positive-number) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
