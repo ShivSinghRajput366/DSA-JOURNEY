@@ -87,6 +87,7 @@
 | [0169-majority-element](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0904-fruit-into-baskets) |
@@ -179,6 +180,7 @@
 | [0013-roman-to-integer](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -224,5 +226,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShivSinghRajput366/DSA-JOURNEY/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
